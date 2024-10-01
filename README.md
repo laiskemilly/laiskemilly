@@ -2,9 +2,9 @@
 
 :mortar_board:Graduanda de Análise e Desenvolvimento de Sistemas 
 <br>
-📚 Estudando RPA e Python. 
+📚 Estudando RPA e Python
 <br>
-:computer: Apaixonada por robótica e tecnologia.
+:computer: Apaixonada por robótica e tecnologia
 
 <div>
   <a href= "https://github.com/laiskemilly">
