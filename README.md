@@ -1,8 +1,8 @@
 ## Bem vindo ao meu perfil! :octocat:
 
-:mortar_board:Graduanda de Análise e Desenvolvimento de Sistemas 
+:mortar_board:Graduada em Análise e Desenvolvimento de Sistemas 
 <br>
-📚 Estudando RPA e Python
+📚 Estudando RPA e Python/ Desenvolvimento Web
 <br>
 :computer: Apaixonada por robótica e tecnologia
 
