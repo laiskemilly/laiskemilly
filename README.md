@@ -1,10 +1,14 @@
-## Bem vindo ao meu perfil! :octocat:
+## Bem-vindo ao meu perfil! :octocat:
 
-:mortar_board:Graduada em Análise e Desenvolvimento de Sistemas 
+👩‍💻 **Engenheira de Software**  
+
+:mortar_board: Graduada em **Análise e Desenvolvimento de Sistemas**  
+🎓 Capacitação em **Circuitos Digitais** pelo **Inatel**  
 <br>
-📚 Estudando RPA e Python/ Desenvolvimento Web
+💼 Atuação com **desenvolvimento de software**, utilizando **metodologias ágeis (Scrum)**, **Azure DevOps**, **C#** e ferramentas do ecossistema **Microsoft**, incluindo **Power Platform**  
 <br>
-:computer: Apaixonada por robótica e tecnologia
+🤖 Experiência acadêmica e prática com **robótica**, **automação de tarefas** e **desenvolvimento de soluções tecnológicas**, sempre com foco em lógica, organização e melhoria contínua  
+
 
 <div>
   <a href= "https://github.com/laiskemilly">
@@ -13,11 +17,13 @@
 </div>
 
 ## Tecnologias
-<div style= "display: inline-block"><br>    
-  <img align = "center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align = "center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align = "center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align = "center" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<div style="display: inline-block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 </div>
 
 ## Contato
